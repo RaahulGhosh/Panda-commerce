@@ -1,0 +1,66 @@
+.pink-bg{
+    background-color:#feeae9;
+    border-radius: 40px;
+    margin-bottom: 70px;
+}
+
+.carousel-item {
+    padding: 40px 40px;
+   
+}
+.price{
+    color: rgb(168, 21, 58);
+}
+
+
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(134, 127, 127);
+}
+.shoe{
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
+.backpack{
+    margin-bottom: 100px;
+}
